@@ -30,7 +30,7 @@ How do I...
 These are the steps on how to contribute with the project!
 
 I can not explain without voice so goto 
-[Dataschool](https://www.dataschool.io/how-to-contribute-on-github/) for detailed information
+[Dataschool Page](https://www.dataschool.io/how-to-contribute-on-github/) for detailed information
 
 ## Thanks to
 [MinecraftForge](https://github.com/MinecraftForge) for [Forge](https://github.com/MinecraftForge/MinecraftForge)
