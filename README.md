@@ -52,3 +52,8 @@ This is how to get your improved version of lethacks on the github page!
 2. Goto the Contributions channel and upload a contribution
 3. Wait for the admins or head mods to approve it
 4. It will be uploaded! (and you will be given credits and a role) 
+
+## Thanks to
+[MinecraftForge](https://github.com/MinecraftForge) for [Forge](https://github.com/MinecraftForge/MinecraftForge)
+
+Our [contributors](https://github.com/FunWithAlbiYT/lethacks/graphs/contributors)
