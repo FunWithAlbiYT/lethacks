@@ -16,10 +16,15 @@ How do I...
   <summary>... Use the features?</summary>
 
 > Features can be used with the following commands:
-> 
 
 </details>
 
+<details>
+  <summary>... Contribute to the project?</summary>
+
+> Check the next section on instructions!
+
+</details>
 
 ## Contribution
 These are the steps on how to contribute with the project!
