@@ -29,29 +29,8 @@ How do I...
 ## Contribution
 These are the steps on how to contribute with the project!
 
-### Get Repository
-
-Clone the repository to your local machine. And editing it later.
-1. Select Code and click download zip
-2. Open the folder where you extracted it
-3. Open a command prompt window on the eclipse folder
-4. Run the command:
-```
-gradlew eclipse genEclipseRuns
-```
-### Setup IDE
-For this tutorial we will be using eclipse.
-1. Open eclipse and select the workspace to be the eclipse folder
-2. Select import goto General and select existing project
-3. Select the entire lethacks folder
-4. start editing!
-
-### Get it uploaded to the github
-This is how to get your improved version of lethacks on the github page!
-1. Join the discord server
-2. Goto the Contributions channel and upload a contribution
-3. Wait for the admins or head mods to approve it
-4. It will be uploaded! (and you will be given credits and a role) 
+I can not explain without voice so goto 
+[Dataschool](https://www.dataschool.io/how-to-contribute-on-github/) for detailed information
 
 ## Thanks to
 [MinecraftForge](https://github.com/MinecraftForge) for [Forge](https://github.com/MinecraftForge/MinecraftForge)
