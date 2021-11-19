@@ -1,0 +1,16 @@
+[
+ {
+  "modid": "LetHack",
+  "name": "LetHack",
+  "description": "A Minecraft Hack Clent made targeted to Anarchy servers, Made by FunWithAlbiYT, M1ntYN And Eraser",
+  "version": "${b0.1}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FunWithAlbiYT, M1ntYN, Eraser"],
+  "credits": "FunWithAlbi for making the client M1ntYN for making the modules and making gui and eraser for suggesting modules. ",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+ }
+]
