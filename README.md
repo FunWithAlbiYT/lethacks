@@ -29,8 +29,8 @@ How do I...
 ## Contribution
 These are the steps on how to contribute with the project!
 
-I can not explain without voice so goto 
-[Dataschool Page](https://www.dataschool.io/how-to-contribute-on-github/) for detailed information
+I can not explain without voice so go to 
+[Dataschool Page](https://www.dataschool.io/how-to-contribute-on-github/) for more detailed information
 
 ## Thanks to
 [MinecraftForge](https://github.com/MinecraftForge) for [Forge](https://github.com/MinecraftForge/MinecraftForge)
