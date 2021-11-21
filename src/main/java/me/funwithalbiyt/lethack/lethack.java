@@ -25,6 +25,6 @@ public class ExampleMod
     @EventHandler
     public void init(FMLInitializationEvent event)
     {
-        logger.info("Done B*tch");
+        logger.info("Im done F**ker");
     }
 }
