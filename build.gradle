@@ -16,7 +16,7 @@ apply plugin: 'maven-publish'
 
 version = '1.0'
 group = 'me.funwithalbiyt.lethack' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'LetHack'
+archivesBaseName = 'lethack'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 
@@ -82,16 +82,14 @@ dependencies {
 
 }
 
-// Example for how to get properties into the manifest for reading by the runtime..
 jar {
     manifest {
         attributes([
-            "Specification-Title": "LetHack",
-            "Specification-Vendor": "LetHackAreus",
+            "Specification-Title": "lethack",
+            "Specification-Vendor": "lethackareus",
             "Specification-Version": "1", // We are version 1 of ourselves
-            "Implementation-Title": project.name,
             "Implementation-Version": "${version}",
-            "Implementation-Vendor" :"LetHackAreus",
+            "Implementation-Vendor" :"lethackareus",
             "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
         ])
     }
