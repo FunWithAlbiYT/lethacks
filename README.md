@@ -1,6 +1,6 @@
 ![let hacks image](https://i.imgur.com/PiOKePR.jpg)
 New Logo:
-![lethack.eu](https://imgur.com/a/24turUQ)
+![](https://imgur.com/a/24turUQ)
 ![]
 this is a java 1.12.2 Minecraft hacked client Designed and made by Albi (for now)
 
