@@ -1,3 +1,8 @@
+UPDATE THAT IS IMPORTANT::!!
+WE NEED TO RESTART THE WHOLE THING BECAUSE OF A SIMPLE ERROR :(
+
+
+
 New Logo:                            (old one: https://i.imgur.com/FHAZ7iK.png) ok
 ![let hacks image](https://i.imgur.com/PiOKePR.jpg)
 this is a java 1.12.2 Minecraft hacked client Designed and made by Albi (for now)
