@@ -1,4 +1,4 @@
-New Logo:                            (old one: https://i.imgur.com/24turUQ)
+New Logo:                            (old one: https://i.imgur.com/FHAZ7iK.png) ok
 ![let hacks image](https://i.imgur.com/PiOKePR.jpg)
 this is a java 1.12.2 Minecraft hacked client Designed and made by Albi (for now)
 
@@ -42,3 +42,4 @@ I can not explain without voice so go to
 [MinecraftForge](https://github.com/MinecraftForge) for [Forge](https://github.com/MinecraftForge/MinecraftForge)
 
 Our [contributors](https://github.com/FunWithAlbiYT/lethacks/graphs/contributors)
+thanks!
