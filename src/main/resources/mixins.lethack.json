@@ -1,0 +1,6 @@
+{
+  "required": true,
+  "package": "me.funwithalbiyt.lethack.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": []
+}
