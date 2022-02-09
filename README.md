@@ -1,6 +1,5 @@
-UPDATE THAT IS IMPORTANT::!!
-WE NEED TO RESTART THE WHOLE THING BECAUSE OF A SIMPLE ERROR :(
-
+Update: <br></br>
+We have been developing infinity hax more (the client is privaet for now..)
 
 
 New Logo:                            (old one: https://i.imgur.com/FHAZ7iK.png) ok
